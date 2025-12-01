@@ -7,31 +7,14 @@
 
 # About Us Section
 
-https://hte.rajasthan.gov.in/college/gpcbarmer/principal-s-message
-https://hte.rajasthan.gov.in/college/gpcbarmer/vision-mission-php
-https://hte.rajasthan.gov.in/college/gpcbarmer/committee
 
 # Academic Section
-https://hte.rajasthan.gov.in/college/gpcbarmer/admission
 
 # Department Pages
-https://hte.rajasthan.gov.in/college/gpcbarmer/department
-https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-electrical-engg
-https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-mechanical-engg
-https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-electronics-engg
-https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-chemical-engg
-https://hte.rajasthan.gov.in/college/gpcbarmer/humanities
 
 # Placement & Student Section
-https://hte.rajasthan.gov.in/college/gpcbarmer/placement
-https://hte.rajasthan.gov.in/college/gpcbarmer/modelpaper
-https://hte.rajasthan.gov.in/college/gpcbarmer/elpaper
-https://hte.rajasthan.gov.in/college/gpcbarmer/final-year
-https://hte.rajasthan.gov.in/college/gpcbarmer/polytechnicshiksha
-https://hte.rajasthan.gov.in/college/gpcbarmer/standardclub
 
 # Administration
-https://hte.rajasthan.gov.in/college/gpcbarmer/mandatorydisclosures
 
 
 ## PDF FILES TO UPLOAD (Use "Forms & Notices" tab)
